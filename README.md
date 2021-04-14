@@ -5,7 +5,7 @@ https://forms.gle/TmPhW5GhYPo61mJH9
 
 ## Directions:
 1. Fork
-2. Clone
+2. Clone 
 3. Create a branch for your work off of what direction you want to be interviewed in: 
 frontend or full stack
 (Example: your github username + project example: bellagrunt_frontend or bellagrunt_fullstack)
